@@ -2,8 +2,8 @@
 
 A 26-week plan to learn programming foundations, core computer science concepts, APIs, LLMs, RAG, agents, and MCP, at about 5 hours a week.
 
-**Started:** YYYY-MM-DD
-**Target finish:** YYYY-MM-DD
+**Started:** 2026-09-24
+**Target finish:** 2027-03-31
 
 ## How to use this repository
 
